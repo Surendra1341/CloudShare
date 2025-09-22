@@ -4,7 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-
+#remove frontend
+frontend/
 
 # Ignore application config
 src/main/resources/application.properties
